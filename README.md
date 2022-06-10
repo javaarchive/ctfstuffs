@@ -1,0 +1,2 @@
+# ctfstuffs
+Scripts to bootstrap
